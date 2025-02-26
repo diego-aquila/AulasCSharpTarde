@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            int idade = 39;
+            
             string nomeCompleto = "Diego Áquila Almeida Sampaio";
 
             var variavalSemTipo = "Diego";
